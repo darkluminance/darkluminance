@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkluminance" alt="darkluminance" /> </p>
 
-- 🔭 I’m currently working on [a Java Project on Visualizing algorithms.](https://github.com/darkluminance/Data-Structure-and-Algorithm-Visualizer)
-
-- 🌱 I’m currently learning **Java and App development with Flutter**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@raiyanabrar1008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@raiyanabrar1008" height="30" width="40" /></a>
