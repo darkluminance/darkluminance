@@ -1,10 +1,11 @@
 <h1 align="center">Hi!! 👋, I'm Raiyan Abrar</h1>
-<h3 align="center">A Computer Science undergrad student from Bangladesh. I love to make and design different things. I'm a fan of travelling and taking pictures.</h3>
+<h3 align="center">A Software Engineer from Bangladesh. I love to make and design different things. I'm a fan of traveling and taking pictures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkluminance" alt="darkluminance" /> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://rye013.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/raiyan-abrar-1b874717a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://fb.com/darkluminance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="darkluminance" height="30" width="40" /></a>
 <a href="https://instagram.com/__rainyan__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__rainyan__" height="30" width="40" /></a>
