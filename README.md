@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkluminance&label=Profile%20views&color=0e75b6&style=flat" alt="darkluminance" /> </p>
 
-- Check out my portfolio <a href="rye013.netlify.app" target="_blank">rye013.netlify.app</a>
+- Check out my portfolio: <a href="rye013.netlify.app" target="_blank">rye013.netlify.app</a>
 - <a href="rye013.netlify.app/about/cv" target="_blank">MY Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rye013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rye013" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rye013" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rye013" height="30" width="40" /></a>
 <a href="https://fb.com/darkluminance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkluminance" height="30" width="40" /></a>
 <a href="https://instagram.com/rye_013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rye_013" height="30" width="40" /></a>
 <a href="https://dribbble.com/darkluminance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="darkluminance" height="30" width="40" /></a>
