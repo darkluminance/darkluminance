@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkluminance&label=Profile%20views&color=0e75b6&style=flat" alt="darkluminance" /> </p>
 
 - Check out my portfolio: <a href="https://rye013.netlify.app" target="_blank">rye013.netlify.app</a>
-- <a href="https://rye013.netlify.app/about/cv" target="_blank">MY Resume</a>
+- <a href="https://rye013.netlify.app/about/cv" target="_blank">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
